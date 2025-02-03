@@ -28,4 +28,4 @@ Check out the `README.md` file, or scroll to the bottom of the main repository p
 5. If you want a website version of your CV, you can edit that under `_pages > cv.md`. This is also written in markdown.
 	1. Alternatively, you can embed a PDF of your CV using HTML. You'll need to upload the PDF to the `files` folder first.
 
-That's pretty much it for basics. There are lots of pages you can consider. You might want everything on the first page with nothing else, or you might want a separate page for your CV and/or publications and/or a blog. And don't forget, you can always put a link to your own website in your profile on the lab website :eyes:.
+That's pretty much it for basics. There are lots of pages you can consider. You might want everything on the first page with nothing else, or you might want a separate page for your CV and/or publications and/or a blog. And don't forget, you can always put a link to your own website in your profile on the lab website :eyes:
